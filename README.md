@@ -3,7 +3,7 @@ Module Eight Journal
 
 **What was the problem you were solving in the projects for this course?**
 
-The projects goals were designing, implementing, and evaluating data structures to store, retrieve, and display course information. The challenge was to determine the most efficient structure for operations such as loading, searching, and printing data while meeting functional requirements.
+The projects goals were designing, implementing, and evaluating data structures to store, retrieve, and display course information. The challenge was to determine the most efficient structure for operations such as loading, searching, and printing data while meeting the clients functional requirements.
 	
 **How did you approach the problem? Consider why data structures are important to understand.**
 
@@ -11,7 +11,7 @@ I was able to implement vector, hash table, and binary search tree solutions to 
 
 **How did you overcome any roadblocks you encountered while going through the activities or project?**
 
-Difficulties that I found included validating prerequisite data, handling invalid input, and making sure the correct binary search tree traversal. I was able to accomplish these issues by breaking the code into smaller functions, verifying results with traversal outputs, and adding validation logic to verify the code executes correctly.
+Difficulties that I found while going through the course included validating prerequisite data, handling invalid input, and making sure the correct binary search tree traversal. I was able to accomplish these issues by breaking the code into smaller functions, verifying results with traversal outputs, and adding validation logic to verify the code executes correctly.
 
 **How has your work on this project expanded your approach to designing software and developing programs?**
 
